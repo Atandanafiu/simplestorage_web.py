@@ -1,6 +1,6 @@
-//"SPDX-License-sIdentifier: MIT"
+// SPDX-License-Identifier: MIT
 
-pragma solidity 0.8.9;
+pragma solidity ^0.8.9;
 
 contract SimpleStorage {
     uint256 favoriteNumber;
