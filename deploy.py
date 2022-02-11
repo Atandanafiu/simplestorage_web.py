@@ -2,6 +2,7 @@ from dis import Bytecode
 from solcx import compile_standard, install_solc
 import json
 
+
 install_solc("0.8.9")
 
 
